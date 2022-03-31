@@ -1,4 +1,5 @@
-
+import tensorflow as tf
+from tensorflow import keras
 import numpy as np
 import matplotlib.pyplot as plt
 from keras.layers import Dense
